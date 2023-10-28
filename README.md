@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=good.rivening&fontSize=60"&align="center" />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=good.rivening&fontSize=60" />
+</div>
 
 <br>
 
