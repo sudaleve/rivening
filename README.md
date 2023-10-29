@@ -4,6 +4,10 @@
 
 <br>
 
+![rivening's GitHub stats](https://github-readme-stats.vercel.app/api?username=rivening&show_icons=true&theme=radical)  
+
+<br>
+
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"></a>&nbsp
