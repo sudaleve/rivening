@@ -2,11 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=good.rivening&fontSize=60" />
 </div>
 
-<br>
-
-![rivening's GitHub stats](https://github-readme-stats.vercel.app/api?username=rivening&show_icons=true&theme=radical)  
-
-<br>
+<div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivening&layout=compact&theme=onedark)
+</div>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
