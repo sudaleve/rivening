@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=good.rivening&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=sudaleve&fontSize=60" />
 </div>
 
 <br>
 
 <h3 align="center">✨ Top Langs ✨</h3>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivening&layout=compact&theme=onedark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudaleve&layout=compact&theme=onedark"/>
 </div>
 
 <br>
@@ -26,7 +26,7 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-[![rivening's GitHub stats](https://github-readme-stats.vercel.app/api?username=rivening&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)</div>
+[![sudaleve's GitHub stats](https://github-readme-stats.vercel.app/api?username=rivening&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)</div>
 
 <!--
 **rivening/rivening** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
